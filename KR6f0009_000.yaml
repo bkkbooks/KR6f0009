@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0009/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說胞胎經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T11/T11n0317.xml
+    old_id: T11n0317
+hash: sha256:802d3b60d4b40ad1dadcf6ec39e8f10306601c2d3eb16b24cf616f061f10f77d

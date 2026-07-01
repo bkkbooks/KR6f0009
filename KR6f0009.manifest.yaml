@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6f0009/v1
+canonical_location: https://kanripo.org/bkk/KR6f0009/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說胞胎經
+  identifiers:
+    alt_id:
+    - T11n0317
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T11/T11n0317.xml
+    old_id: T11n0317
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0009_000.yaml, hash: 'sha256:802d3b60d4b40ad1dadcf6ec39e8f10306601c2d3eb16b24cf616f061f10f77d'}
+  - {seq: 1, filename: KR6f0009_001.yaml, hash: 'sha256:6fba6a93284fe4b2b46ad9fc537dcf26f515acc630ab5e8c1b727f40d22b58bb'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6f0009_001.markers.yaml, hash: 'sha256:27ede3da7d311730ae87f9d3e58704521624ba52fcdf07081f70bd01a79e0cfe'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0009_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6456
+  label: 佛說胞胎經
+  type: juan
+  level: 1
+hash: sha256:8f8f6135a1449d35337b9573155cd1c6456dd89aeb270d0e116827e496eab834
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
