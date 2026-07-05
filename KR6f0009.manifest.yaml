@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0009_000.yaml, hash: 'sha256:802d3b60d4b40ad1dadcf6ec39e8f10306601c2d3eb16b24cf616f061f10f77d'}
-  - {seq: 1, filename: KR6f0009_001.yaml, hash: 'sha256:6fba6a93284fe4b2b46ad9fc537dcf26f515acc630ab5e8c1b727f40d22b58bb'}
+  - {seq: 1, filename: KR6f0009_001.yaml, hash: 'sha256:b0df170ee5306bd850426cbe70b7f84a188b6bc82b647be3dc6eb6d4d42e1a5d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6f0009_001.markers.yaml, hash: 'sha256:27ede3da7d311730ae87f9d3e58704521624ba52fcdf07081f70bd01a79e0cfe'}
+  - {seq: 0, role: markers, filename: assets/KR6f0009_000.markers.yaml, hash: 'sha256:8b88203f6ba26a247135fc84514b581262a5dcf219be8f6a210f2c28c0cd5af5'}
+  - {seq: 1, role: markers, filename: assets/KR6f0009_001.markers.yaml, hash: 'sha256:4d91ba0280cb7950b20fd080d3482c4e941613aeac03219d87d91e2aedf85277'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說胞胎經
   type: juan
   level: 1
-hash: sha256:8f8f6135a1449d35337b9573155cd1c6456dd89aeb270d0e116827e496eab834
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:feeabba2f98faf4a449409df6e050882802af70e29568aed95183ae1af768250
