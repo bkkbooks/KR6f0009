@@ -36,7 +36,7 @@ assets:
   - {seq: 0, filename: KR6f0009_000.yaml, hash: 'sha256:802d3b60d4b40ad1dadcf6ec39e8f10306601c2d3eb16b24cf616f061f10f77d'}
   - {seq: 1, filename: KR6f0009_001.yaml, hash: 'sha256:f4479422afe9cc82c543e1fb0f6b78e31e732693e738510c52bc4f3011e86101'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0009_000.markers.yaml, hash: 'sha256:8b88203f6ba26a247135fc84514b581262a5dcf219be8f6a210f2c28c0cd5af5'}
+  - {seq: 0, role: markers, filename: assets/KR6f0009_000.markers.yaml, hash: 'sha256:393b98a65264d1500f25a64c430f2c8233b56d2ca01156672ca6d30ff68de916'}
   - {seq: 1, role: markers, filename: assets/KR6f0009_001.markers.yaml, hash: 'sha256:5d5c3b108955dcba5401992f13eafb26675963899a89f4b7d08f686d4fff4013'}
 table_of_contents:
 - ref:
@@ -49,7 +49,7 @@ table_of_contents:
   label: 佛說胞胎經
   type: juan
   level: 1
-hash: sha256:026a69f4f0480f41389656eb9d0b96c5aa8d9cfbf1648ee63016a203597deb61
+hash: sha256:26a3e793252fd03cd0879ed8fd52610d7d83eb1afa5985d881a5e7e3cbfa79c9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

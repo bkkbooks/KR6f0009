@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6f0009_000-T.yaml, hash: 'sha256:802d3b60d4b40ad1dadcf6ec39e8f10306601c2d3eb16b24cf616f061f10f77d'}
   - {seq: 1, filename: KR6f0009_001-T.yaml, hash: 'sha256:b0df170ee5306bd850426cbe70b7f84a188b6bc82b647be3dc6eb6d4d42e1a5d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0009_000-T.markers.yaml, hash: 'sha256:f97da6fb57ffee8cd2966ab67c0fbf67c72f3a3a090a9395ebe5f1e51ea6f87c'}
+  - {seq: 0, role: markers, filename: assets/KR6f0009_000-T.markers.yaml, hash: 'sha256:f726915d7eb6e686c1f89e67e82bd4fc92ecb9ecbb0a847882993de6bdeffd54'}
   - {seq: 1, role: markers, filename: assets/KR6f0009_001-T.markers.yaml, hash: 'sha256:2f53c0ebc9f005714b8eb40fb01c956290da8604057a3ede899ba51a78e37473'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說胞胎經
   type: juan
   level: 1
-hash: sha256:d71100c21dcbf02edc67eb294f0545deaaced53625b60820745f78500d2913df
+hash: sha256:48e0a7c3813c4e0cf5017f90b0eb4246cbf7d997d9c9caca919ad8351bc6b9c2
